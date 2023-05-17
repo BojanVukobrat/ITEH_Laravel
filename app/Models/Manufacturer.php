@@ -18,9 +18,4 @@ class Manufacturer extends Model
         'CEO',
     ];
 
-    // public function cars()
-    // {
-    //     return $this->hasMany(Gutiar::class);
-    // }
-
 }

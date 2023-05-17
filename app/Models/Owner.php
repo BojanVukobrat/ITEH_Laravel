@@ -19,9 +19,5 @@ class Owner extends Model
         'driver_license'
     ];
 
-    // public function cars()
-    // {
-    //     return $this->hasMany(Gutiar::class);
-    // }
 
 }

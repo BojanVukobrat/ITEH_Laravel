@@ -38,6 +38,11 @@ class DatabaseSeeder extends Seeder
                 "name" => "BMW",
                 "city" => "Munnich",
                 "CEO" => "Michael Sins"
+            ],
+            [
+                "name" => "Ford",
+                "city" => "Boston",
+                "CEO" => "John Cena"
             ]
         ]);
 
